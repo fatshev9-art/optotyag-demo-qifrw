@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://fatshev9-art.github.io/optotyag-demo-qifrw/sitemap.xml
